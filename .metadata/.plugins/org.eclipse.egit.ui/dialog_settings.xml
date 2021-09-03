@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<list key="EGit.KnownHosts">
+		<item value="git.eclipse.org"/>
+		<item value="github.com"/>
+		<item value="bitbucket.org"/>
+	</list>
+	<list key="RepositorySelectionPage.UsedUris">
+		<item value="https://github.com/ffeyh/aulas_java.git"/>
+		<item value="https://github.com/ffeyh/Java.git"/>
+	</list>
+	<list key="CommitDialog.authorValues">
+		<item value="felip &lt;felip@192.168.10.109&gt;"/>
+	</list>
+	<list key="CommitDialog.committerValues">
+		<item value="felip &lt;felip@192.168.10.109&gt;"/>
+	</list>
+	<section name="org.eclipse.egit.ui.internal.staging.StagingView">
+		<item key="MAIN_SASH_FORM_ORIENTATION_VERTICAL" value="false"/>
+		<item key="HORIZONTAL_SASH_FORM_WEIGHT" value="500,500"/>
+		<item key="STAGING_SASH_FORM_WEIGHT" value="500,500"/>
+		<item key="sortItemState" value="false"/>
+	</section>
+	<section name="GitCommitMessageComponent">
+		<list key="C:\Users\felip\git\aulas_java\.git">
+			<item value="empty"/>
+		</list>
+		<list key="C:\Java\exercicios\.git">
+			<item value="empty"/>
+		</list>
+	</section>
+</section>
